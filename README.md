@@ -8,16 +8,10 @@ I learned a great deal about CSS organization in this project, but I think the o
 
 ## Usage
 
-The site is deployed! Navigate using the below URL:
-[name](url)
+The site is deployed! Navigate there using this link:
+[https://valjean451.github.io/week1challenge/](https://valjean451.github.io/week1challenge/)
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![screenshot of site URL](assets/images/url_screenshot.PNG)
 
 ## Credits
 
@@ -34,5 +28,3 @@ And many many MDN reference pages.
 ## License
 
 Please refer to the license in the repository.
-
-Nominal change here.
